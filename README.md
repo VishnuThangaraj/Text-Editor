@@ -12,9 +12,9 @@
 ## Introduction
 Welcome to the TextEditor Application! This Java Swing-based text editor is a simple yet powerful tool for creating, editing, and managing text files. It provides a user-friendly graphical interface and supports basic text editing operations.
 
-![TextEditor Screenshots](https://github.com/VishnuThangaraj/Text-Editor/blob/main/screenshots/MAIN.png)
-![TextEditor Screenshots](https://github.com/VishnuThangaraj/Text-Editor/blob/main/screenshots/menu.png)
-![TextEditor Screenshots]([screenshots/MULTI.png](https://github.com/VishnuThangaraj/Text-Editor/blob/main/screenshots/MULTI.png))
+![TextEditor Screenshots](https://github.com/VishnuThangaraj/Text-Editor/tree/main/screenshots/MAIN.png)
+![TextEditor Screenshots](https://github.com/VishnuThangaraj/Text-Editor/tree/main/screenshots/menu.png)
+![TextEditor Screenshots](https://github.com/VishnuThangaraj/Text-Editor/tree/main/screenshots/MULTI.png))
 
 ## Features
 - **User-Friendly Interface**: The application is built using Java Swing, providing an intuitive and easy-to-use interface.
