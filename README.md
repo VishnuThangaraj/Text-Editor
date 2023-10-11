@@ -14,7 +14,7 @@ Welcome to the TextEditor Application! This Java Swing-based text editor is a si
 
 ![TextEditor Screenshots](https://github.com/VishnuThangaraj/Text-Editor/tree/main/screenshots/MAIN.png)
 ![TextEditor Screenshots](https://github.com/VishnuThangaraj/Text-Editor/tree/main/screenshots/menu.png)
-![TextEditor Screenshots](https://github.com/VishnuThangaraj/Text-Editor/tree/main/screenshots/MULTI.png))
+![TextEditor Screenshots](https://github.com/VishnuThangaraj/Text-Editor/tree/main/screenshots/MULTI.png)
 
 ## Features
 - **User-Friendly Interface**: The application is built using Java Swing, providing an intuitive and easy-to-use interface.
